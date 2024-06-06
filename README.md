@@ -1,5 +1,6 @@
 # duygunu soyle ve goster
 Duygunu Söyle ve Göster (İngilizce) | Merve Hacıabbasoğlu
+
 Bu uygulama, gerçek zamanlı olarak yüz ifadelerini ve sesleri algılayarak duygusal durumumuzu doğruluk oranı ile ifade eder. Bu README dosyası, projeyle ilgili detaylı bilgileri içermektedir.
 İçindekiler
 1.	Proje Dosyaları ve Klasörler
